@@ -1,0 +1,13 @@
+{
+  "name": "elm-poker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "elm-live src/*.elm --open --pushstate --output build/App.js --debug",
+    "test": "elm-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
